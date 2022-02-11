@@ -3,7 +3,7 @@
 A Visual Studio extension that compiles LESS, Sass Stylus, JSX, ES6 and CoffeeScript
 files.
 
-This fork integrates the fixes made by developer (Failwyn)[https://github.com/failwyn/WebCompiler], but optimized for Visual Studio 2019.
+This fork integrates the fixes made by developer [Failwyn](https://github.com/failwyn/WebCompiler), but optimized for Visual Studio 2019.
 
 Download the extension at the
 [VS Gallery](https://visualstudiogallery.msdn.microsoft.com/3b329021-cd7a-4a01-86fc-714c2d05bb6c)
