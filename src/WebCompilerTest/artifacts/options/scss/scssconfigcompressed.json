@@ -4,8 +4,8 @@
 		"inputFile": "scss/test.scss",
 		"minify": { },
 		"includeInProject": true,
-		"options": {
-			"outputStyle": "compressed"
-		}
+    "options": {
+      "style": "compressed"
+    }
 	}
 ]

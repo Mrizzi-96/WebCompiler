@@ -111,12 +111,11 @@
     <None Include="artifacts\lessconfigParseError.json" />
     <None Include="artifacts\lessconfigError.json" />
     <None Include="artifacts\less\parseerror.less" />
-    <None Include="artifacts\options\scss\scssconfigecho.json" />
+    <None Include="artifacts\options\scss\scssconfigautoprefix.json" />
     <None Include="artifacts\options\scss\scssconfigcompressed.json" />
-    <None Include="artifacts\options\scss\scssconfigcompact.json" />
+    <None Include="artifacts\options\scss\scssconfigloadpaths.json" />
     <None Include="artifacts\options\scss\scssconfigexpanded.json" />
     <None Include="artifacts\options\scss\scssconfigprecision.json" />
-    <None Include="artifacts\options\scss\scssconfignested.json" />
     <None Include="artifacts\scssconfig-no-sourcemap.json" />
     <None Include="artifacts\scssconfigError.json" />
     <None Include="artifacts\scssconfig.json" />

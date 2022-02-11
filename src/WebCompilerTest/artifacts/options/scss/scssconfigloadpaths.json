@@ -4,8 +4,8 @@
 		"inputFile": "scss/test.scss",
 		"minify": { },
 		"includeInProject": true,
-		"options": {
-			"outputStyle": "echo"
-		}
+    "options": {
+      "loadPaths": "/test/test.scss;/test/test2.scss"
+    }
 	}
 ]
